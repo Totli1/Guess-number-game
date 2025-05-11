@@ -1,0 +1,2 @@
+C:\Users\misha\source\repos\Guess game\Guess game\bin\Release\net8.0\win-x64\publish\Guess game.exe
+C:\Users\misha\source\repos\Guess game\Guess game\bin\Release\net8.0\win-x64\publish\Guess game.pdb
